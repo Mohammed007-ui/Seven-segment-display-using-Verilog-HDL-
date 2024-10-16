@@ -57,7 +57,9 @@ bcd=4'b0000;
 #2 $stop;
 end
 endmodule
-output:![7segment--](https://github.com/user-attachments/assets/b3cf1765-c4d7-44ff-972d-98bb00efece1)
+OUTPUT:
+![7segment--](https://github.com/user-attachments/assets/b3cf1765-c4d7-44ff-972d-98bb00efece1)
+~~~
 ~~~
 Testbench for Seven-Segment Display:
 module sevensegment;
